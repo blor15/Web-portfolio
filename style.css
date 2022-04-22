@@ -1,18 +1,18 @@
 /* hero background image */
 .bgimage {
     height: 100vh;
-    background: url('/images/mountains.jpeg');
+    background: url('/images/mountain.png');
     background-size: cover;
     position: relative;
 }
 
 /* text css above hero image*/
 .hero_title {
-    font-size: 4.5rem;
+    font-size: 6rem;
 }
 
 .hero_desc {
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 .hero-text {
@@ -21,7 +21,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: white
 }
 
 /* about section image css */
@@ -92,4 +92,16 @@
 
 #contact {
     padding-bottom: 4rem;
+}
+
+/* centering for the skill icons */
+.skill {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.container {
+    font: white;
 }
