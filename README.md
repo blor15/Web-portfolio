@@ -1,6 +1,6 @@
 HTML, CSS, JavaScript and Bootstrap 5 Web Portfolio
 
-Creating a web portfolio for use and practing the below tech. 
+Creating a web portfolio for use and practicing the below tech. 
 
 Technologies used
 - HTML
