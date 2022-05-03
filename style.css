@@ -105,3 +105,23 @@
 .container {
     font: white;
 }
+
+/* sizing for the image in projects */
+.card-img-top {
+    width: 275px;
+    height: 275px;
+}
+
+/* sizing for nav logo */
+.navbar-brand {
+    position: relative;
+    background: url('images/navlogo.png');
+    width: 75px;
+    height: 75px;
+    background-size: contain;
+}
+
+/* font color for the nav */
+.nav-link {
+    color: white !important;
+}
